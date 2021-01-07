@@ -1,1 +1,1 @@
-# space-invaders
+# space-invaders in vanilla JS
